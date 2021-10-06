@@ -1,3 +1,6 @@
 # Color_and_histogram_based_tracking
 
-Object tracking in videos based on fusion of color and histogram features. Done during my semester in University Autonoma de Madrid, Applied Video Sequence Analysis(AVSA) course. A report (Color_and_histogram_based_tracking.pdf) is included in the repo.
+Object tracking in videos based on fusion of color and histogram features. Done during my semester in University Autonoma de Madrid, Applied Video Sequence Analysis(AVSA) course. A report (Color_and_histogram_based_tracking.pdf) is included in the repo.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/17337563/136171193-b9e3b13b-38c5-4fbc-a7ba-1ea21c1057bf.png" data-canonical-src="https://user-images.githubusercontent.com/17337563/136171193-b9e3b13b-38c5-4fbc-a7ba-1ea21c1057bf.png" width="200" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/17337563/136171016-59e98172-e1c1-41a1-bc9d-de4a987efc83.png" data-canonical-src="https://user-images.githubusercontent.com/17337563/136171016-59e98172-e1c1-41a1-bc9d-de4a987efc83.png" width="200" height="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/17337563/136171087-7f5e4620-9ac2-41cc-a108-9b8575aef2fc.png" data-canonical-src="https://user-images.githubusercontent.com/17337563/136171087-7f5e4620-9ac2-41cc-a108-9b8575aef2fc.png" width="200" height="200" />
